@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.9",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.2.3",
+    "resolve-url": "^0.2.1",
+    "urix": "^0.1.0"
+  }
+}
